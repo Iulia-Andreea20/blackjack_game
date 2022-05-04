@@ -1,8 +1,8 @@
 # Blackjack Game
 
 # Concepts:
-   This is Blackjack that uses the clasical rules of the game to generate random numbers between 1 and 14 that represents the value of the cards from an      usual deck of cards.
-   The idea is that the sum of the cards generated during the game has to be 21 to win. If the sum is lower than 21, the player can generate a new random      card, else, if It is over 21, the player loses.
+   This is Blackjack that uses the classical rules of the game to generate random numbers between 1 and 14, that represents the value of the cards from a      regular deck of cards.
+   The idea is that the sum of the cards generated during the game has to be 21 to win. If the sum is lower than 21, the player can generate a new random      card, otherwise, if It is over 21, the player loses.
 
 # Functionalities
 1. Buttons that starts the game, generate new cards or restart the program;
